@@ -1,0 +1,18 @@
+# User-specified folders
+ppts/
+urls/
+zipper/
+
+# Python virtual environment
+venv/
+*.pyc
+__pycache__/
+.env
+
+# IDE and OS specific files
+.DS_Store
+.idea/
+.vscode/
+
+# Zipped files (optional, based on your 'zipper' folder)
+*.zip
