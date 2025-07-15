@@ -5,5 +5,5 @@ newspaper3k
 scikit-learn
 requests
 beautifulsoup4
-lxml
+lxml_html_clean # Add this line
 gunicorn
